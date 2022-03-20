@@ -3,7 +3,7 @@ import random
 import pandas
 import smtplib
 
-MY_EMAIL = "youremail5@gmail.com"
+MY_EMAIL = "youremail@gmail.com"
 MY_PASSWORD ="yourpassword"
 
 today = dt.datetime.now()
